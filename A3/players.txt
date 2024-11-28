@@ -1,0 +1,7 @@
+{alice, 26}.
+{bob, 17}.
+{charlie, 28}.
+{john, 11}.
+{kilo, 22}.
+{snow, 44}.
+{targaeryan, 32}.
