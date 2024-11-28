@@ -1,0 +1,17 @@
+1|john|123 Here Street|456-4567
+3|Fan Yuhong|165 Happy Lane|345-4533
+2|Sue Jones|43 Rose Court Street|345-7867
+4|John Stones|345 Maple St|700-7000
+5|Kyle Walker|Some Address 8|800-8000
+6|Cristiano Goes|Some Address 9|900-9000
+7|Vini Jr|Some Address 10|1000-10000
+12|Erling Haaland|Some Address 11|1100-11000
+9|Amy|Some Address 12|1200-12000
+10|Leggedis|Some Address 13|1300-13000
+11|Hunger|Some Address 14|1400-14000
+8|think about it tho|Some Address 15|1500-15000
+13|aiit|Some Address 16|1600-16000
+16|Customer|Some Address 17|1700-17000
+15|Kathy Garcia|Some Address 18|1800-18000
+14|how tf|Some Address 19|1900-19000
+17|Lisa Jenkins|Some Address 20|2000-20000
